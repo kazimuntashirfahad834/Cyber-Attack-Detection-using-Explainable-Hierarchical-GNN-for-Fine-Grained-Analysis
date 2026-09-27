@@ -1,0 +1,2 @@
+# Cyber-Attack-Detection-using-Explainable-Hierarchical-GNN-for-Fine-Grained-Analysis
+An explainable Graph Neural Network framework for multi-class cyberattack detection using the CICIDS-2017 dataset. The approach combines kNN-based flow graphs, Hierarchical Graph Attention Networks, imbalance-aware learning, and GNNExplainer to achieve accurate and interpretable intrusion detection across 12 attack categories.
